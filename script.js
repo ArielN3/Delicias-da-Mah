@@ -208,7 +208,7 @@ checkoutForm.addEventListener('submit', (e) => {
     // Formato obrigatório: 55 + DDD + número (sem espaços, hífens ou parênteses)
     
     // 5. Criar link do WhatsApp
-    const urlWhatsApp = `https://api.whatsapp.com/send?phone=${5561982379031}&text=${mensagem}`;
+    const urlWhatsApp = `https://api.whatsapp.com/send?phone=${556182188478}&text=${mensagem}`;
     
     // 6. Debug (verifique no console)
     console.log("URL WhatsApp:", urlWhatsApp);
@@ -226,4 +226,5 @@ function calcularTotal() {
     return carrinho.reduce((total, item) => total + (item.quantidade * item.precoUnitario), 0) + TAXA_ENTREGA;
 }
 // Inicialização
+
 renderizarCardapio();
