@@ -4,7 +4,7 @@ const produtos = {
             id: "1",
             nome: "Cone Trufado Laka oreo (premium)",
             descricao: "Sabor:Laka oreo (premium)",
-            preco: 5.00,
+            preco: 6.00,
             imagem: "https://i.ibb.co/jvS1gBY9/Cones-trufados-sabores-variados.jpg"
         },
         {
@@ -60,14 +60,14 @@ const produtos = {
             id: "16",
             nome: "Trufas gourmets Brigadeiro",
             descricao: "Sabor: Brigadeiro",
-            preco: 5.00,
+            preco: 6.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
             id: "17",
             nome: "Trufas gourmets Ninho",
             descricao: "Sabor: Ninho",
-            preco: 5.00,
+            preco: 6.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
@@ -81,28 +81,28 @@ const produtos = {
             id: "19",
             nome: "Trufas gourmets Ninho com Nutella",
             descricao: "Sabor: Ninho com Nutella",
-            preco: 5.00,
+            preco: 6.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
             id: "20",
             nome: "Trufas gourmets Doce de leite",
             descricao: "Sabor: Doce de leite",
-            preco: 5.00,
+          preco: 6.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
             id: "21",
             nome: "Trufas gourmets Maracujá",
             descricao: "Sabor: Maracujá",
-            preco: 5.00,
+           preco: 6.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
             id: "22",
             nome: "Trufas gourmets Limão",
             descricao: "Sabor: Limão",
-            preco: 5.00,
+            preco: 6.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
@@ -116,7 +116,7 @@ const produtos = {
             id: "23",
             nome: "Caixinha de coxinha de morango",
             descricao: "Recheio: Morango",
-            preco: 5.00,
+            preco: 15.00,
             imagem: "https://i.ibb.co/TMF56NLy/Caixinha-de-coxinha-de-morango.jpg"
         },
         {
@@ -137,7 +137,7 @@ const produtos = {
             id: "25",
             nome: "Bombom de uva no pote",
             descricao: "Recheio: Uva",
-            preco: 5.00,
+            preco: 12.00,
             imagem: "https://i.ibb.co/0ycTDBc6/Bombom-de-uva-no-pote.jpg"
         },
         {
@@ -151,7 +151,7 @@ const produtos = {
             id: "3",
             nome: "Coxinha de ferreiro rocher com morango",
             descricao: "Recheio: Ferreiro rocher com morango",
-            preco: 5.00,
+            preco: 12.00,
             imagem: "https://i.ibb.co/dwgtQRJG/Coxinha-de-ferreiro-rocher-com-morango.jpg"
         },
         {
@@ -165,29 +165,30 @@ const produtos = {
             id: "6",
             nome: "Brigadeiro",
             descricao: " Tradicional",
-            preco: 5.00,
+            preco: 3.50,
             imagem: "https://i.ibb.co/5WPnBvb8/brigadeiro-preto.jpg"
         },
         {
             id: "7",
             nome: "Brigadeiro",
             descricao: "Brigadeiro",
-            preco: 5.00,
+            preco: 3.50,
             imagem: "https://i.ibb.co/27SWfjrp/Brigadeiros-und-branco.jpg"
         },
         {
             id: "8",
             nome: "Pavê de Oreo",
             descricao: "Pavê de Oreo",
-            preco: 7.90,
+            preco: 10.00,
             imagem: "https://i.ibb.co/BHP3qtm8/Pav-de-oreo.jpg"
         },
         {
             id: "9",
             nome: "Pavê tradicional",
             descricao: "Pavê tradicional",
-            preco: 3.90,
+            preco: 10.00,
             imagem: "https://i.ibb.co/pBP10mYs/Pav-tradicional.jpg"
         }
     ]
 };
+
