@@ -195,7 +195,8 @@ const produtos = {
             nome: "Torta de Limão",
             descricao: "sabor: Limão",
             preco: 10.00 ,
-            imagem: "https://i.ibb.co/pBP10mYs/Pav-tradicional.jpg"
+             imagem: "https://i.ibb.co/pBP10mYs/Pav-tradicional.jpg"
         }
     ]
 };
+
