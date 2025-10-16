@@ -4,70 +4,70 @@ const produtos = {
             id: "1",
             nome: "Cone Trufado Laka oreo (premium)",
             descricao: "Sabor:Laka oreo (premium)",
-            preco: 6.00,
+            preco: 10.00,
             imagem: "https://i.ibb.co/jvS1gBY9/Cones-trufados-sabores-variados.jpg"
         },
         {
             id: "2",
             nome: "Cone Trufado Brigadeiro (tradicional)",
             descricao: "Sabor: Brigadeiro (tradicional)",
-            preco: 5.00,
+            preco: 10.00,
             imagem: "https://i.ibb.co/jvS1gBY9/Cones-trufados-sabores-variados.jpg"
         },
         {
             id: "10",
             nome: "Cone Trufado Ninho (tradicional)",
             descricao: "Sabor: Ninho (tradicional)",
-            preco: 5.00,
+            preco: 10.00,
             imagem: "https://i.ibb.co/jvS1gBY9/Cones-trufados-sabores-variados.jpg"
         },
         {
             id: "11",
             nome: "Cone Trufado Doce de leite (tradicional)",
             descricao: "Sabor: Doce de leite (tradicional)",
-            preco: 5.00,
+            preco: 10.00,
             imagem: "https://i.ibb.co/jvS1gBY9/Cones-trufados-sabores-variados.jpg"
         },
         {
             id: "12",
             nome: "Cone Trufado Casadinho (tradicional)",
             descricao: "Sabor: Casadinho (tradicional)",
-            preco: 5.00,
+            preco: 10.00,
             imagem: "https://i.ibb.co/jvS1gBY9/Cones-trufados-sabores-variados.jpg"
         },
         {
             id: "13",
             nome: "Cone Trufado Prestígio (tradicional)",
             descricao: "Sabor: Prestígio (tradicional)",
-            preco: 5.00,
+            preco: 10.00,
             imagem: "https://i.ibb.co/jvS1gBY9/Cones-trufados-sabores-variados.jpg"
         },
         {
             id: "14",
             nome: "Cone Trufado Ferreiro Rocher (premium)",
             descricao: "Sabor: Ferreiro Rocher (premium)",
-            preco: 5.00,
+            preco: 11.00,
             imagem: "https://i.ibb.co/jvS1gBY9/Cones-trufados-sabores-variados.jpg"
         },
         {
             id: "15",
             nome: "Cone Trufado Ninho com Nutella (premium)",
             descricao: "Sabor: Ninho com Nutella (premium)",
-            preco: 5.00,
+            preco: 11.00,
             imagem: "https://i.ibb.co/jvS1gBY9/Cones-trufados-sabores-variados.jpg"
         },
         {
             id: "16",
             nome: "Trufas gourmets Brigadeiro",
             descricao: "Sabor: Brigadeiro",
-            preco: 6.00,
+            preco: 10.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
             id: "17",
             nome: "Trufas gourmets Ninho",
             descricao: "Sabor: Ninho",
-            preco: 6.00,
+            preco: 5.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
@@ -81,28 +81,28 @@ const produtos = {
             id: "19",
             nome: "Trufas gourmets Ninho com Nutella",
             descricao: "Sabor: Ninho com Nutella",
-            preco: 6.00,
+            preco: 5.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
             id: "20",
             nome: "Trufas gourmets Doce de leite",
             descricao: "Sabor: Doce de leite",
-          preco: 6.00,
+            preco: 5.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
             id: "21",
             nome: "Trufas gourmets Maracujá",
             descricao: "Sabor: Maracujá",
-           preco: 6.00,
+            preco: 5.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
             id: "22",
             nome: "Trufas gourmets Limão",
             descricao: "Sabor: Limão",
-            preco: 6.00,
+            preco: 5.00,
             imagem: "https://i.ibb.co/xtKQg7gg/Trufas-gourmets.jpg"
         },
         {
@@ -116,7 +116,7 @@ const produtos = {
             id: "23",
             nome: "Caixinha de coxinha de morango",
             descricao: "Recheio: Morango",
-            preco: 15.00,
+            preco: 5.00,
             imagem: "https://i.ibb.co/TMF56NLy/Caixinha-de-coxinha-de-morango.jpg"
         },
         {
@@ -130,7 +130,7 @@ const produtos = {
             id: "24",
             nome: "Bombom de morango no pote ",
             descricao: "Recheio: Moran  go",
-            preco: 5.00,
+            preco: 12.00,
             imagem: "https://i.ibb.co/PGfwkbDf/Bombom-de-uva-no-pote-outro-sabor.jpg"
         },
         {
@@ -151,7 +151,7 @@ const produtos = {
             id: "3",
             nome: "Coxinha de ferreiro rocher com morango",
             descricao: "Recheio: Ferreiro rocher com morango",
-            preco: 12.00,
+            preco: 5.00,
             imagem: "https://i.ibb.co/dwgtQRJG/Coxinha-de-ferreiro-rocher-com-morango.jpg"
         },
         {
@@ -165,14 +165,14 @@ const produtos = {
             id: "6",
             nome: "Brigadeiro",
             descricao: " Tradicional",
-            preco: 3.50,
+            preco: 5.00,
             imagem: "https://i.ibb.co/5WPnBvb8/brigadeiro-preto.jpg"
         },
         {
             id: "7",
             nome: "Brigadeiro",
             descricao: "Brigadeiro",
-            preco: 3.50,
+            preco: 5.00,
             imagem: "https://i.ibb.co/27SWfjrp/Brigadeiros-und-branco.jpg"
         },
         {
@@ -186,9 +186,16 @@ const produtos = {
             id: "9",
             nome: "Pavê tradicional",
             descricao: "Pavê tradicional",
-            preco: 10.00,
+            preco: 10.00    ,
+            imagem: "https://i.ibb.co/pBP10mYs/Pav-tradicional.jpg"
+        },
+
+        {
+            id: "10",
+            nome: "Torta de Limão",
+            descricao: "sabor: Limão",
+            preco: 10.00 ,
             imagem: "https://i.ibb.co/pBP10mYs/Pav-tradicional.jpg"
         }
     ]
 };
-
