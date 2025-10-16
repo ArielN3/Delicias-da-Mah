@@ -195,8 +195,9 @@ const produtos = {
             nome: "Torta de Limão",
             descricao: "sabor: Limão",
             preco: 10.00 ,
-             imagem: "https://i.ibb.co/pBP10mYs/Pav-tradicional.jpg"
+         imagem: "https://www.luvep.com.br/wp-content/uploads/2025/04/24364510.gif"
         }
     ]
 };
+
 
